@@ -1,14 +1,14 @@
 title:              DevLogs Blog
 email:              wojciech.szlosek@outlook.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+author:             Wojciech Szlosek
 baseurl:            "/DevLogs"
 url:                "https://wszlosek.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:
+github_username:    wszlosek
+facebook_username:
 instagram_username:  
 linkedin_username:
 

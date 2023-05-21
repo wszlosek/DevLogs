@@ -1,7 +1,8 @@
 title:              DevLogs Blog
+short_title:        DevLogs
 email:              wojciech185sz@gmail.com
 code:               f/mpzenvnz
-description:        A Blog Theme by Start Bootstrap
+description:        "Navigating the IT Sea: A Developer's Voyage"
 author:             Wojciech Szlosek
 baseurl:            "/DevLogs"
 url:                "https://wszlosek.github.io"

@@ -1,10 +1,10 @@
-title:              DevNook Blog
-short_title:        DevNook
+title:              DevNuts Blog
+short_title:        DevNuts
 email:              wojciech185sz@gmail.com
 code:               f/mpzenvnz
 description:        "Navigating the IT Sea: A Developer's Voyage"
 author:             Wojciech Szlosek
-baseurl:            "/DevNook"
+baseurl:            "/DevNuts"
 url:                "https://wszlosek.github.io"
 
 # Social Profiles

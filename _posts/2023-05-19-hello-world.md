@@ -7,7 +7,7 @@ background: '/img/posts/post01.jpg'
 
 # My first blog post
 
-Hello, everyone! Welcome to my first post on DevNook.
+Hello, everyone! Welcome to my first post on DevNuts.
 Today, I want to talk about the things I'll be writing about in my future posts.
 
 

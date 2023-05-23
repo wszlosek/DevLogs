@@ -7,7 +7,7 @@ background: '/img/posts/post01.jpg'
 
 # My first blog post
 
-Hello, everyone! Welcome to my first post on DevLogs.
+Hello, everyone! Welcome to my first post on DevNook.
 Today, I want to talk about the things I'll be writing about in my future posts.
 
 
@@ -32,7 +32,7 @@ This will help me make this blog better.
 
 
 <script src="https://utteranc.es/client.js"
-        repo="wszlosek/DevLogs"
+        repo="wszlosek/DevNook"
         issue-term="title"
         theme="github-light"
         crossorigin="anonymous"

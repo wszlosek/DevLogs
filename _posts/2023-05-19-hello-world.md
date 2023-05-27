@@ -32,7 +32,7 @@ This will help me make this blog better.
 
 
 <script src="https://utteranc.es/client.js"
-        repo="wszlosek/DevNook"
+        repo="wszlosek/DevDawn"
         issue-term="title"
         theme="github-light"
         crossorigin="anonymous"

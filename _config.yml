@@ -1,10 +1,10 @@
-title:              DevNuts Blog
-short_title:        DevNuts
+title:              DevDawn Blog
+short_title:        DevDawn
 email:              wojciech185sz@gmail.com
 code:               f/mpzenvnz
 description:        "Navigating the IT Sea: A Developer's Voyage"
 author:             Wojciech Szlosek
-baseurl:            "/DevNuts"
+baseurl:            "/DevDawn"
 url:                "https://wszlosek.github.io"
 
 # Social Profiles

@@ -18,6 +18,12 @@
         color: $gray-800;
     }
 
+    pre {
+        background-color: #f8f8f8 !important;
+        padding: 1em !important;
+        border-radius: 8px !important;
+    }
+
     .navbar-nav {
         >li.nav-item {
             >a {

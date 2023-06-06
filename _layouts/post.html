@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<head>
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta property="og:image" content="{{ page.background }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+</head>
+
 <!-- Page Header -->
 {% if page.background %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">

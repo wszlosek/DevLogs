@@ -78,9 +78,10 @@ such as those found in the Scala programming language.
 
 PITest (Mutation Testing Framework) generates various types of mutations. 
 Here are some example types of mutations that PITest can generate:
-* **conditional operator replacement**: changes conditional operators, such as ==, !=, <, >, etc., to other operators, such as <=, >=, &&, ||, to see if the tests respond correctly to different cases.
+
+* **conditional operator replacement**: changes conditional operators, such as `==`, `!=`, `<`, `>`, etc., to other operators, such as `< -> <=`, `== -> !=`, to see if the tests respond correctly to different cases.
 * **constant value replacement**: changes constant values, such as numbers, strings, or boolean values, to other values to see if the tests are sensitive to different input data.
-* **arithmetic operator replacement**: changes arithmetic operators, such as +, -, *, /, to other operators, such as ++, --, %, to see if the tests handle different computations.
+* **arithmetic operator replacement**: changes arithmetic operators, such as `+`, `-`, `*`, `/`, to other operators, such as `++`, `--`, to see if the tests handle different computations.
 * **statement removal**: removes a single statement from the code to see if the tests are sensitive to the absence of a specific functionality.
 * **statement reordering**: changes the order of statements in a code block to see if the tests are resilient to changes in execution order.
 
@@ -389,6 +390,7 @@ As you can see, mutation testing is a powerful tool that can help you improve th
 but it often leads to discovering interesting cases that you may not have considered before.
 I have presented mutation testing in the context of Scala, 
 but it's again worth noting that you can use PITest in other JVM languages as well, not necessarily limited to projects built with Gradle. 
+
 This post serves as a simple introduction to the topic, and I hope it encourages you to explore mutation testing in your own projects.
 
 Please feel free to share your thoughts and questions in the comments section below.

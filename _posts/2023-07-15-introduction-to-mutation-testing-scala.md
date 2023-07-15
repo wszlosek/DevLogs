@@ -297,12 +297,6 @@ class HotelReservationSystemSpec extends AnyWordSpec with Matchers with OptionVa
       reservationSystem.getNumberOfGuests("102").value shouldEqual 1
     }
 
-    "cancel a reservation correctly" in {
-      val reservationSystem = new HotelReservationSystem()
-      reservationSystem.cancelReservation("101")
-      reservationSystem.getNumberOfGuests("101") shouldEqual None
-    }
-
     "find available rooms correctly" in {
       val reservationSystem = new HotelReservationSystem()
       reservationSystem.makeReservation("201", 3)

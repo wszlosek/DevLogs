@@ -76,7 +76,7 @@ such as those found in the Scala programming language.
 &nbsp;
 ### Sample mutations types
 
-PITest (Mutation Testing Framework) generates various types of mutations. 
+PITest generates various types of mutations. 
 Here are some example types of mutations that PITest can generate:
 
 * **conditional operator replacement**: changes conditional operators, such as `==`, `!=`, `<`, `>`, etc., to other operators, such as `< -> <=`, `== -> !=`, to see if the tests respond correctly to different cases.

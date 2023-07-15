@@ -193,8 +193,12 @@ Below you can see part of the PITest report specifically related to the BankAcco
 <a href="https://ibb.co/C8GThg1"><img src="https://i.ibb.co/wgmxMV0/Zrzut-ekranu-2023-07-12-o-22-09-19.png" alt="Zrzut-ekranu-2023-07-12-o-22-09-19" border="0"></a>
 
 In the generated report, the green color indicates that the mutant was killed by the test suite. 
-This means that the test suite successfully detected the fault introduced by the modified code. On the other hand, the red color signifies that the mutant survived, indicating that either the test suite failed to detect the fault or there was no test coverage for that particular case.
-In this specific example, two mutants survived, which suggests that the corresponding faults were not detected by the test suite. Additionally, you mentioned that there is a case where there is no test coverage, specifically when the amount of money to transfer is greater than the balance of the sender's account or when the amount is less than or equal to zero. 
+This means that the test suite successfully detected the fault introduced by the modified code. 
+
+On the other hand, the red color signifies that the mutant survived, indicating that either the test suite failed to detect the fault or there was no test coverage for that particular case.
+In this specific example, two mutants survived, which suggests that the corresponding faults were not detected by the test suite. 
+
+Additionally, you mentioned that there is a case where there is no test coverage, specifically when the amount of money to transfer is greater than the balance of the sender's account or when the amount is less than or equal to zero. 
 This implies that there may be potential issues or untested scenarios in those cases.
 
 So let's add new test.

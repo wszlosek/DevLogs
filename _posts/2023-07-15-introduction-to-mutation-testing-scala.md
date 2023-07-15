@@ -23,7 +23,7 @@ In the future, I will be writing about more advanced areas related to mutation t
 ## Table of Contents
 
 1. [Mutation testing concept](#mutation-testing-concept)
-    1. [What is mutation testing?](#what-is-mutation-testing)
+    1. [What is mutation?](#what-is-mutation)
     2. [For and against mutation testing](#for-and-against-mutation-testing)
 2. [Mutation testing in JVM-based languages](#mutation-testing-in-jvm-based-languages)
     1. [Sample mutations types](#sample-mutations-types)
@@ -34,7 +34,7 @@ In the future, I will be writing about more advanced areas related to mutation t
 ## Mutation testing concept
 
 &nbsp;
-### What is mutation testing?
+### What is mutation?
 Program-based mutation testing is a technique used to test software units, 
 such as classes, methods, and functions, by modifying their source code. 
 The modified code, known as a mutant, is a copy of the original code with a small alteration. 

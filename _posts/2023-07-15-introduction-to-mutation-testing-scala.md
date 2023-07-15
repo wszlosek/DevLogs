@@ -266,12 +266,16 @@ class HotelReservationSystem {
 
   def processBookings(bookingFunction: (String, Int) => Unit): Unit = {
     bookings.foreach {
-      case (roomNumber, guests) => bookingFunction(roomNumber, guests)
+      case (roomNumber, guests) => {
+       bookingFunction(roomNumber, guests)
+      }
     }
   }
 
   def getRoomDetails(roomNumber: String): Option[(String, Int)] = {
-    bookings.get(roomNumber).map(guests => (roomNumber, guests))
+    bookings
+      .get(roomNumber)
+      .map(guests => (roomNumber, guests))
   }
 
   def getTotalNumberOfGuests: Int = {

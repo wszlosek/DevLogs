@@ -79,7 +79,7 @@ such as those found in the Scala programming language.
 PITest generates various types of mutations. 
 Here are some example types of mutations that PITest can generate:
 
-* **conditional operator replacement**: changes conditional operators, such as `==`, `!=`, `<`, `>`, etc., to other operators, such as `< -> <=`, `== -> !=`, to see if the tests respond correctly to different cases.
+* **conditional operator replacement**: changes conditional operators, such as `==`, `!=`, `<`, `>`, etc., to other operators, such as `<` -> `<=`, `==` -> `!=`, to see if the tests respond correctly to different cases.
 * **constant value replacement**: changes constant values, such as numbers, strings, or boolean values, to other values to see if the tests are sensitive to different input data.
 * **arithmetic operator replacement**: changes arithmetic operators, such as `+`, `-`, `*`, `/`, to other operators, such as `++`, `--`, to see if the tests handle different computations.
 * **statement removal**: removes a single statement from the code to see if the tests are sensitive to the absence of a specific functionality.

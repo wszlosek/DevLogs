@@ -338,7 +338,7 @@ class HotelReservationSystemSpec extends AnyWordSpec with Matchers with OptionVa
 
 <a href="https://ibb.co/Mp49QZW"><img src="https://i.ibb.co/2PQ5HWm/Zrzut-ekranu-2023-07-15-o-12-33-26.png" alt="Zrzut-ekranu-2023-07-15-o-12-33-26" border="0"></a>
 
-The mutation in the cancelReservation method is easy to eliminate with the following test because there are currently no tests for canceling a reservation.
+The mutation in the `cancelReservation` method is easy to eliminate with the following test because there are currently no tests for canceling a reservation.
 
 
 ```scala

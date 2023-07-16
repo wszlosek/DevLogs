@@ -12,4 +12,4 @@ My main focus is programming in Scala and Java, but I also take on various other
 I'm responsible for the technical development, maintenance, and architecture of several applications related to transactions in the financial system.
 
 Besides my job, I'm also a Computer Science student at Jagiellonian University.\
-I'm really into Deep Learning methods and software quality metrics from a research perspective. I find it fascinating to explore these areas and see how they can be applied in practice.
+I'm really into Deep Learning methods and mutation testing from a research perspective. I find it fascinating to explore these areas and see how they can be applied in practice.

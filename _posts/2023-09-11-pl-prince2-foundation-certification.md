@@ -84,7 +84,7 @@ Uwaga: szkolenie z akredytowanej organizacji, dotyczące Practitioner jest obowi
 Chciałbym opowiedzieć w kilku zdaniach o tym jak wyglądało moje szkolenie z zakresu PRINCE2 Foundation. 
 Jednak bez zdradzania nazwy firmy, która je przeprowadzała i nazwiska mojego trenera - pomimo, że szkolenie w mojej ocenie było prowadzone bardzo profesjonalnie.
 
-### Jak wyglądało moje szkolenie?
+#### Jak wyglądało moje szkolenie?
 
 Szkolenie przebiegało u mnie w formie zdalnej (online). Trwało ono 3 dni, po 7 godzin każdego dnia (oczywiście z krótkimi przerwami).
 W trakcie godzin szkoleniowych oraz po nich, należało wykonywać prace domowe dotyczące poznanego wcześniej materiału.
@@ -106,7 +106,7 @@ Można wybrać język testu egzaminacyjnego: wybrałem język polski. Głównym 
 Szczerze polecam wybór języka testu dostosowany do posiadanych materiałów. Metodyka PRINCE2 zawiera wiele specyficznych słów i zwrotów, nie warto się zaskakiwać w trakcie egzaminu.
 
 
-### Materiały do nauki własnej
+#### Materiały do nauki własnej
 
 Podstawowy materiał do nauki stanowi oficjalny podręcznik ***PRINCE2® - Skuteczne Zarządzanie Projektami***. To dosyć obszerny dokument,
 który zawiera wszystkie informacje potrzebne do zdania egzaminu (a nawet i sporo nadobowiązkowych sekcji).
@@ -127,7 +127,7 @@ popularnych "pułapek" i stylu pisania pytań. Poza egzaminami próbnymi, które
 Najogólniej: slajdy szkoleniowe/podręcznik (najważniejsze fragmenty) + testy próbne - to moim zdaniem zupełnie wystarczające materiały do zdania egzaminu.
 
 
-### Jak wyglądał egzamin?
+#### Jak wyglądał egzamin?
 
 Mój egzamin przeprowadzany był online na platformie PeopleCert. Aplikacja ta wymagała przyznania dostępów do pulpitu, kamery i mikrofonu. 
 Każdy z tych obszarów był nadzorowany przez pracownika przez cały czas trwania egzaminu. Cała procedura była oczywiście wymagana w celu minimalizacji ryzyka oszustwa - i rzeczywiście, nie widzę możliwości nieuczciwego zdania egzaminu w takich warunkach.
@@ -158,7 +158,7 @@ Starałem się przedstawić kilka praktycznych rad i wskazówek, jak się do nie
 
 
 Pozostało odpowiedzieć na bardzo ważne pytanie:
-### Czy warto zdobyć certyfikat PRINCE2 Foundation?
+#### Czy warto zdobyć certyfikat PRINCE2 Foundation?
 
 Uważam, że tak. Metodyka zarządzania projektami PRINCE2 jest bardzo popularna w Europie, a także w Polsce.
 Jej niewątpliwą zaletą jest to, że jest bardzo elastyczna i może być stosowana w całkowicie dowolnym projekcie.

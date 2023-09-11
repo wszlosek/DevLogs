@@ -121,7 +121,7 @@ Stąd też uczyłem się tylko definicji z tej prezentacji, a podręcznik służ
 
 
 Bardzo ważną częścią nauki własnej jest rozwiązywanie testów próbnych. Pozwalają one na poznanie specyfiki pytań egzaminacyjnych, 
-popularnych "pułapek" i stylu pisania pytań. Poza egzaminami próbnymi, które otrzymałem od firmy szkoleniowej, polecam te dostępne dla wszystkich: https://www.memorizer.pl/test/9100/prince2/ - baza online zawiera aktualnie ponad 200 pytań.
+popularnych "pułapek" i stylu pisania pytań. Poza egzaminami próbnymi, które otrzymałem od firmy szkoleniowej, polecam te dostępne dla wszystkich: [https://www.memorizer.pl/test/9100/prince2](https://www.memorizer.pl/test/9100/prince2) - baza online zawiera aktualnie ponad 200 pytań.
 
 
 Najogólniej: slajdy szkoleniowe/podręcznik (najważniejsze fragmenty) + testy próbne - to moim zdaniem zupełnie wystarczające materiały do zdania egzaminu.
@@ -133,7 +133,7 @@ Mój egzamin przeprowadzany był online na platformie PeopleCert. Aplikacja ta w
 Każdy z tych obszarów był nadzorowany przez pracownika przez cały czas trwania egzaminu. Cała procedura była oczywiście wymagana w celu minimalizacji ryzyka oszustwa - i rzeczywiście, nie widzę możliwości nieuczciwego zdania egzaminu w takich warunkach.
 
 
-Na stronie https://www.peoplecert.org/ można znaleźć informacje o wymaganiach technicznych oraz szczegółowe instrukcje dotyczące procedury egzaminacyjnej.
+Na stronie [https://www.peoplecert.org](https://www.peoplecert.org/) można znaleźć informacje o wymaganiach technicznych oraz szczegółowe instrukcje dotyczące procedury egzaminacyjnej.
 Warto zapoznać się z nimi co najmniej dzień przed egzaminem, aby mieć pewność, że wszystko jest gotowe do rozpoczęcia testu.
 
 

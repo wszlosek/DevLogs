@@ -71,7 +71,7 @@ Sumarycznie, zdobycie certyfikatu PRINCE2 Foundation powinno zamknąć się w kw
 Jest to bardziej zaawansowany egzamin, który wymaga od kandydata nie tylko znajomości terminologii, zasad i teorii, ale także umiejętności dostosowania metodyki do realnego projektu.
 
 
-Podczas egzaminu dopuszczalne jest korzystanie z oficjalnego podręcznika - "PRINCE2® - Skuteczne Zarządzanie Projektami".
+Podczas egzaminu dopuszczalne jest korzystanie z oficjalnego podręcznika - ***PRINCE2® - Skuteczne Zarządzanie Projektami***.
 By przystąpić do egzaminu Practitioner, należy wcześniej posiadać certyfikat Foundation.
 Certyfikat Practitioner również jest ważny 3 lata od daty zdania egzaminu.
 
@@ -108,7 +108,7 @@ Szczerze polecam wybór języka testu dostosowany do posiadanych materiałów. M
 
 ### Materiały do nauki własnej
 
-Podstawowy materiał do nauki stanowi oficjalny podręcznik "PRINCE2® - Skuteczne Zarządzanie Projektami". To dosyć obszerny dokument,
+Podstawowy materiał do nauki stanowi oficjalny podręcznik ***PRINCE2® - Skuteczne Zarządzanie Projektami***. To dosyć obszerny dokument,
 który zawiera wszystkie informacje potrzebne do zdania egzaminu (a nawet i sporo nadobowiązkowych sekcji).
 Osobiście **nie polecam** bezmyślnego uczenia się wprost z podręcznika. Dobrze jest go przejrzeć, ewentualnie luźno przeczytać, ale nadmiar informacji do zapamiętania może przytłoczyć.
 Trzeba wiedzieć co jest ważne i które definicje są kluczowe do zapamiętania. 

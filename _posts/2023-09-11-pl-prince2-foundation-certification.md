@@ -29,6 +29,7 @@ Myślę, że ten post będzie przydatny dla osób, które myślą o zdobyciu teg
 &nbsp;
 ## PRINCE2
 
+&nbsp;
 ### Czym jest metodyka PRINCE2?
 
 **PRINCE2** (**P**rojects **IN** **C**ontrolled **E**nvironments) to klasyczna metodyka zarządzania projektami.

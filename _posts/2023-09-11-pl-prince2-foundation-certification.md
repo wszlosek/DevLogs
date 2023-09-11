@@ -158,7 +158,7 @@ Starałem się przedstawić kilka praktycznych rad i wskazówek, jak się do nie
 
 
 Pozostało odpowiedzieć na bardzo ważne pytanie:
-### Czy warto zdawać certyfikat PRINCE2 Foundation?
+### Czy warto zdobyć certyfikat PRINCE2 Foundation?
 
 Uważam, że tak. Metodyka zarządzania projektami PRINCE2 jest bardzo popularna w Europie, a także w Polsce.
 Jej niewątpliwą zaletą jest to, że jest bardzo elastyczna i może być stosowana w całkowicie dowolnym projekcie.

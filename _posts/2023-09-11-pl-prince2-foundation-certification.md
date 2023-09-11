@@ -7,7 +7,7 @@ background: '/img/posts/post04.jpg'
 image: 'https://ibb.co/0J6Zyzb'
 ---
 
-# PRINCE2 Foundation
+# Moje doświadczenia ze zdobyciem certyfikatu PRINCE2 Foundation w zakresie zarządzania projektami
 
 Cześć! W tym poście chciałbym podzielić się z Wami moimi doświadczeniami w zdobyciu certyfikatu PRINCE2 Foundation.
 Myślę, że ten post będzie przydatny dla osób, które myślą o zdobyciu tego certyfikatu lub przygotowują się do egzaminu Foundation.
@@ -130,8 +130,8 @@ Najogólniej: slajdy szkoleniowe/podręcznik (najważniejsze fragmenty) + testy 
 ### Jak wyglądał egzamin?
 
 Mój egzamin przeprowadzany był online na platformie PeopleCert. Aplikacja ta wymagała przyznania dostępów do pulpitu, kamery i mikrofonu. 
-Każdy z tych obszarów był nadzorowany przez pracownika przez cały czas trwania egzaminu. Cała procedura była oczywiście wymagana w celu minimalizacji ryzyka oszustwa 
-- i rzeczywiście, nie widzę możliwości nieuczciwego zdania egzaminu w takich warunkach.
+Każdy z tych obszarów był nadzorowany przez pracownika przez cały czas trwania egzaminu. Cała procedura była oczywiście wymagana w celu minimalizacji ryzyka oszustwa - i rzeczywiście, nie widzę możliwości nieuczciwego zdania egzaminu w takich warunkach.
+
 
 Na stronie https://www.peoplecert.org/ można znaleźć informacje o wymaganiach technicznych oraz szczegółowe instrukcje dotyczące procedury egzaminacyjnej.
 Warto zapoznać się z nimi co najmniej dzień przed egzaminem, aby mieć pewność, że wszystko jest gotowe do rozpoczęcia testu.
@@ -153,8 +153,8 @@ Oczywiście to tylko pusta statystyka.
 &nbsp;
 ## Podsumowanie
 
-Mam nadzieję, że nieco rozjaśniłem Wam tematykę certyfikacji PRINCE2, szczególnie Foundation 
-- oraz przedstawiłem kilka praktycznych rad i wskazówek, jak się do niej przygotować.
+Mam nadzieję, że nieco rozjaśniłem Wam tematykę certyfikacji PRINCE2, szczególnie Foundation.
+Starałem się przedstawić kilka praktycznych rad i wskazówek, jak się do niej przygotować.
 
 
 Pozostało odpowiedzieć na bardzo ważne pytanie:

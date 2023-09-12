@@ -163,6 +163,7 @@ Pozostało odpowiedzieć na bardzo ważne pytanie:
 
 Uważam, że tak. Metodyka zarządzania projektami PRINCE2 jest bardzo popularna w Europie, a także w Polsce.
 Jej niewątpliwą zaletą jest to, że jest bardzo elastyczna i może być stosowana w całkowicie dowolnym projekcie.
+Szkolenie i nauka własna pozwalają na poznanie wielu ciekawych zagadnień i praktyk wykorzystywanych w zarządzaniu projektami.
 
 
 Taki certyfikat na pewno jest fajnym dodatkiem do CV, a na niektórych stanowiskach, w zależności od firmy, może być wręcz wymagany.

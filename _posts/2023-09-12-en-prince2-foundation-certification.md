@@ -2,7 +2,7 @@
 layout: post
 title: "PRINCE2 Foundation Certification"
 description: "My experiences with obtaining the PRINCE2 Foundation certificate in project management"
-date: 2023-09-11 14:22 +0200
+date: 2023-09-12 18:22 +0200
 background: '/img/posts/post04.jpg'
 image: 'https://ibb.co/0J6Zyzb'
 ---

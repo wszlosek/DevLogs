@@ -88,7 +88,7 @@ Note: Training from an accredited organization for Practitioner is mandatory. Yo
 I would like to briefly describe my PRINCE2 Foundation training experience.
 
 
-#### Jak wyglądało moje szkolenie?
+#### What did my training look like?
 
 My PRINCE2 Foundation training was conducted online and lasted for 3 days, 
 with each day consisting of 7 hours of training, including short breaks. During and after the training hours, 

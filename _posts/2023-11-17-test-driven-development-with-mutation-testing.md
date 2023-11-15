@@ -4,16 +4,8 @@ title: "Test-driven development with mutation testing (TDD+M)"
 description: "Beyond conventional TDD: exploring mutation techniques"
 date: 2023-11-15 17:15:00 +0200
 background: '/img/posts/post05.jpg'
-image: 'https://ibb.co/F71yzjr'
+image: 'https://ibb.co/x3zTBY5'
 ---
-
-Based on:
-```
-Roman, A., Mnich, M. Test-driven development with mutation testing – an experimental study. 
-Software Qual J 29, 1–38 (2021).
-```
-
-Full text available at: [https://doi.org/10.1007/s11219-020-09534-x](https://doi.org/10.1007/s11219-020-09534-x)
 
 # Beyond conventional TDD: exploring mutation techniques
 
@@ -35,6 +27,15 @@ from Jagiellonian University in Kraków, Poland.
     3. [Results](#results)
 3. [Conclusion](#conclusion)
 
+&nbsp;
+
+Based on:
+```
+Roman, A., Mnich, M. Test-driven development with mutation testing – an experimental study. 
+Software Qual J 29, 1–38 (2021).
+```
+
+Full text available at: [https://doi.org/10.1007/s11219-020-09534-x](https://doi.org/10.1007/s11219-020-09534-x)
 &nbsp;
 ## Test-driven development (TDD) <a name="tdd"></a>
 
@@ -98,7 +99,7 @@ The authors posed the following questions (quoted from the paper):
 * *RQ1. Do the tests written with the TDD+M approach give better code coverage than the ones written in a pure TDD approach with no mutation process involved?*
 * *RQ2. Are the tests written with the TDD+M approach stronger (more effective) than the ones written using a pure TDD approach?*
 * *RQ3. Is the external code quality better when the TDD+M is used than in case of using the TDD approach only?*
-
+&nbsp;
 ##### Results for RQ1:
 The TDD+M group achieved 49.3% code coverage, compared to 31.1% in the TDD group, indicating significantly better code coverage with mutation testing.
 

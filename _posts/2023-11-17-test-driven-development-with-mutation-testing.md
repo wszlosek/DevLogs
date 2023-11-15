@@ -100,6 +100,7 @@ The authors posed the following questions (quoted from the paper):
 * *RQ2. Are the tests written with the TDD+M approach stronger (more effective) than the ones written using a pure TDD approach?*
 * *RQ3. Is the external code quality better when the TDD+M is used than in case of using the TDD approach only?*
 &nbsp;
+
 ##### Results for RQ1:
 The TDD+M group achieved 49.3% code coverage, compared to 31.1% in the TDD group, indicating significantly better code coverage with mutation testing.
 

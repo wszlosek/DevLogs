@@ -15,7 +15,7 @@ specifically incorporating mutation testing into the traditional Test-Driven Dev
 The results of TDD+M (Test-Driven Development + Mutation) experiments are intriguing and, 
 I believe, are set to become a standard part of future software development processes.
 
-As mentioned earlier, this post is based on the article *Test-driven development with mutation testing – an experimental study* by Prof. Adam Roman and Dr. Michał Mnich 
+This post is based on the article *Test-driven development with mutation testing – an experimental study* by Prof. Adam Roman and Dr. Michał Mnich 
 from Jagiellonian University in Kraków, Poland.
 &nbsp;
 ## Table of Contents

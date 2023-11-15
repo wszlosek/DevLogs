@@ -103,11 +103,11 @@ The authors posed the following questions (quoted from the paper):
 ##### Results for RQ1:
 The TDD+M group achieved 49.3% code coverage, compared to 31.1% in the TDD group, indicating significantly better code coverage with mutation testing.
 
-#### Response to RQ2:
+##### Response to RQ2:
 The TDD+M group achieved an average of 63.3% mutation coverage, while the TDD group reached only 39.4%. 
 This significant difference suggests that TDD+M is more effective in detecting errors than traditional TDD.
 
-#### Results regarding RQ3:
+##### Results regarding RQ3:
 In the code quality study, the TDD+M group detected an average of 10 defects in the TDD code,
 whereas the TDD group found only about 1.75 defects in TDD+M code. Despite similar complexity and size of the projects,
 TDD+M tests were more efficient, detecting an average of 12.62 defects per KLOC (thousand lines of code), 

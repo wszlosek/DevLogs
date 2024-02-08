@@ -2,7 +2,7 @@
 layout: post
 title: "Immutable Scala - Monocle library (I)"
 description: "Using Lenses to simplify immutable data manipulation"
-date: 2024-02-09 11:22:00 +0200
+date: 2024-02-08 19:22:00 +0200
 background: '/img/posts/post06.jpg'
 image: 'https://ibb.co/zhMM1PG'
 ---

@@ -50,7 +50,7 @@ Of course, not every static metric is equally useful, but that's a topic for ano
 Static metrics can be divided into several categories. A common method of classification is based on the scope they impact.
 The diagram below illustrates this classification well:
 
-![](../img/posts_cont/post08/p1.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Bt0ZDCK/p1.png" alt="p1" border="0"></a>
 
 Examples of metrics from each category will be discussed in the section below.
 
@@ -77,6 +77,7 @@ At the class level, we can measure among others:
 - average complexity of methods
 - number of dependencies between classes (and related classes)
 - number of class and method invocations
+- and many, many more...
 
 
 #### Package level
@@ -121,7 +122,7 @@ presents such a connection.
 
 The diagram below illustrates the main relationships associated with static code metrics:
 
-![](../img/posts_cont/post08/p2.png)
+<a href="https://ibb.co/S3bS2xS"><img src="https://i.ibb.co/0GT5kX5/p2.png" alt="p2" border="0"></a>
 
 
 An additional relationship concerns the identification of software defects based on static metrics. As of today, there are several hundred thousand

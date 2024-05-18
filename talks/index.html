@@ -1,0 +1,71 @@
+---
+layout: talks
+title: Talks
+background: '/img/bg-post.jpg'
+pagination:
+  enabled: true
+---
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+{% else %}
+<header class="masthead">
+{% endif %}
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="page-heading">
+          <h1>{{ page.title }}</h1>
+          {% if page.description %}
+          <span class="subheading">{{ page.description }}</span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+
+      {% for talk in paginator.posts %}
+        <div class="talk-preview">
+          <a href="{{ talk.url | prepend: site.baseurl }}">
+            <h3 class="talk-title">
+              {{ talk.title }}
+            </h3>
+          </a>
+          {% if talk.pdf_url %}
+          <a href="{{ talk.pdf_url }}" class="talk-slides-link" target="_blank">[Slides]</a>
+          {% endif %}
+          {% if talk.subtitle %}
+          <h4 class="talk-subtitle">
+            {{ talk.subtitle }}
+          </h4>
+          {% endif %}
+        </div>
+        <hr>
+      {% endfor %}
+
+      <!-- Pager -->
+      {% if paginator.total_pages > 1 %}
+      <div class="clearfix">
+        {% if paginator.previous_page %}
+        <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
+          Newer<span class="d-none d-md-inline"> Talks</span></a>
+        {% endif %}
+
+        {% if paginator.next_page %}
+        <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Talks</span> &rarr;</a>
+        {% endif %}
+      </div>
+      {% endif %}
+
+      {{ content }}
+
+    </div>
+  </div>
+</div>

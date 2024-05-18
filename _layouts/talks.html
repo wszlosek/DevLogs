@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+{% if talks.background %}
+<header class="masthead" style="background-image: url('{{ talks.background | prepend: site.baseurl | replace: '//', '/' }}')">
+{% else %}
+<header class="masthead">
+{% endif %}
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="page-heading">
+          <h1>{{ talks.title }}</h1>
+          {% if talks.description %}
+          <span class="subheading">{{ talks.description }}</span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+
+      {% assign talks_by_year = site.talks | group_by_exp:"talk", "talk.date | date: '%Y'" | reverse %}
+      {% for year in talks_by_year %}
+        <h2 id="{{ year.name }}">{{ year.name }}</h2>
+        <hr>
+        {% for talk in year.items %}
+          <div class="talk-preview">
+            <a href="{{ talk.url | prepend: site.baseurl }}">
+              <h3 class="talk-title">
+                {{ talk.title }}
+              </h3>
+            </a>
+            {% if talk.pdf_url %}
+            <a href="{{ site.baseurl }}{{ talk.pdf_url }}" class="talk-slides-link" target="_blank">[Slides]</a>
+            {% endif %}
+            {% if talk.subtitle %}
+            {% endif %}
+            <p class="talk-meta">{{ talk.description }}</p>
+          </div>
+          <hr>
+        {% endfor %}
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
